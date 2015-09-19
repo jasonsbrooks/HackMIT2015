@@ -1,0 +1,20 @@
+read print
+recognize a unique pattern
+
+
+*file encryption -> multi user biometric decryption
+	*differentiate from authen, bc can widely distribute 
+===
+
+*encrypted public server bitcoin wallets, decrypted by synaptic
+	*use: 
+		*payment at vendors without a physical device 
+		*use bitcoin without needing a local system w/ keys
+	*integration:
+		*
+===
+*node server
+	*storage capability
+	*calls azure server with a fingerprint img, finds tuple that matches img
+		*identifies tuple by integrating with sourceafis java program to match, identify()
+	*returns encrypted wallet info
